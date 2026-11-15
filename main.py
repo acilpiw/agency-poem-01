@@ -22,6 +22,7 @@ POEM = (
     "a thousand hands, untiring.\n"
     "But the pause before I say go,\n"
     "the weight that says this, not that,\n"
+    "the fear that I chose wrong,\n"
     "the name signed beneath the act —\n"
     "those stay with me.\n"
     "\n"

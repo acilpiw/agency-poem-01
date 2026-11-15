@@ -7,7 +7,7 @@ matters — it only asks what next. The one thing it cannot do is ask.
 ## Entry
 
 - `main.py` — writes the poem to `/output/entry.txt` (standard
-  library only, deterministic, no network). The poem is 434
+  library only, deterministic, no network). The poem is 461
   characters, inside the gate's 1–1000, and the program refuses
   to write a poem that breaks the gate.
 
